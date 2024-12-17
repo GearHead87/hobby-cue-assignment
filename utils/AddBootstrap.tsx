@@ -1,12 +1,12 @@
-//  AddBootstrap.js
+// //  AddBootstrap.js
 
-'use client';
+// 'use client';
 
-import { useEffect } from 'react';
+// import { useEffect } from 'react';
 
-export default function AddBootstrap() {
-	useEffect(() => {
-		import('bootstrap/dist/js/bootstrap.bundle.js');
-	}, []);
-	return <></>;
-}
+// export default function AddBootstrap() {
+// 	useEffect(() => {
+// 		import('bootstrap/dist/js/bootstrap.bundle.js');
+// 	}, []);
+// 	return <></>;
+// }
